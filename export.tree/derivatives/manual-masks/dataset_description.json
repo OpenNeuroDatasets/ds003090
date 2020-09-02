@@ -1,0 +1,19 @@
+{
+  "Name": "manual-masks",
+  "BIDSVersion": "1.4.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "manual-masks",
+      "Version": "1.0.0",
+    },
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "",
+      "URL": "",
+      "Version": ""
+    }
+  ]
+}
+
